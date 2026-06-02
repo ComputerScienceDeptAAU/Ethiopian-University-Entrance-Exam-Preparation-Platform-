@@ -44,8 +44,8 @@ The system provides:
 -	FR-24: The system shall display student reported issues such as wrong answers and missing subject content on the administrator and teacher dashboards and notify students of the outcomes.
 
 ## System development tools
--	[Frontend Development: React framework with Tailwind](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/frontend).
--	[Backend Development: Node js](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/backend).
+-	[Frontend Development](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/frontend): React framework with Tailwind.
+-	[Backend Development](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/backend): Node js.
 -	Database Storage: Mongo DB.
 -	Code Development: VS-Code Editor.
 -	Code Collaboration and Version Controls: Git and Github.
