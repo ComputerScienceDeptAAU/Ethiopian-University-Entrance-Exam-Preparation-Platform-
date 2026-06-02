@@ -17,8 +17,8 @@ The system provides:
 - peer collaboration,
 - admin and subject teacher management features.
 ## System development tools
--	[Frontend Development: React framework with Tailwind](/frontend).
--	[Backend Development: Node js](/backend).
+-	[Frontend Development: React framework with Tailwind](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/frontend).
+-	[Backend Development: Node js](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/backend).
 -	Database Storage: Mongo DB.
 -	Code Development: VS-Code Editor.
 -	Code Collaboration and Version Controls: Git and Github.
