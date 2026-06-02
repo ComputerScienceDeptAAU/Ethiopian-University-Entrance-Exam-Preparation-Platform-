@@ -1,4 +1,7 @@
 # Entrance Exam Preparation Platform
+This project was submitted on **June 2/2026**, <br> 
+given on **4th year, second semester**, <br>
+it's the implementation of the documentation produced in the **4th year first semester course, Final year Project I**. <br>
 ## 👥 Group Contributors
 
 | 🧑‍💻 Name | 🆔 Student ID |
