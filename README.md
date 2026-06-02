@@ -59,3 +59,37 @@ Following the standards of modern software engineering, the system utilizes the 
 -	[View](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/frontend/src/pages): The View represents the visual layer that allows users (Students, Teachers, and Admins) to interact with the system. In this platform, the View is composed of React components that display study materials, practice exams, and progress dashboards.
 -	[Controller](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/backend/src/controllers): The Controllers are implemented as RESTful APIs within the Node js framework. They act as the intermediary between the View and the Model. When a user performs an action, the Controller receives the request, calls the appropriate services for processing, and returns the results to the View in JSON format.
 -	[Model](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/tree/main/backend/src/models): The Model layer consists of Javascript objects (Entities) and MongoDB collections that represent the system’s data and business logic. This includes data structures for User Profiles, Exam Questions, Subject Content, and Performance Analytics.
+## Screenshots
+>> **Signing in**
+![SignIn](/screenshots/photo_21_2026-06-02_20-38-16.jpg)
+![SignIn](/screenshots/photo_22_2026-06-02_20-38-16.jpg)
+**Creating Account**
+![CreateAccount](/screenshots/photo_19_2026-06-02_20-38-16.jpg)
+![CreateAccount](/screenshots/photo_20_2026-06-02_20-38-16.jpg)
+**Stream Selection**
+![StreamSelec](/screenshots/photo_18_2026-06-02_20-38-16.jpg)
+**Student Dashboard**
+![StudDash](/screenshots/photo_17_2026-06-02_20-38-16.jpg)
+![StudDash](/screenshots/photo_16_2026-06-02_20-38-16.jpg)
+**AI tutor**
+![AItut](/screenshots/photo_13_2026-06-02_20-38-16.jpg)
+![AItut](/screenshots/photo_1_2026-06-02_20-38-15.jpg)
+**Course Management**
+![CourseMan](/screenshots/photo_3_2026-06-02_20-38-16.jpg)
+![CourseMan](/screenshots/photo_5_2026-06-02_20-38-16.jpg)
+**User Management**
+![UserMan](/screenshots/photo_7_2026-06-02_20-38-16.jpg)
+**Subject Management**
+![SubjectMan](/screenshots/photo_8_2026-06-02_20-38-16.jpg)
+**Profile Details**
+![ProfDet](/screenshots/photo_9_2026-06-02_20-38-16.jpg)
+**Q&A Management**
+![Q&AMan](/screenshots/photo_4_2026-06-02_20-38-16.jpg)
+**Topics**
+![Topics](/screenshots/photo_15_2026-06-02_20-38-16.jpg)
+**Concepts**
+![Concepts](/screenshots/photo_14_2026-06-02_20-38-16.jpg)
+**Exercises**
+![Exercises](/screenshots/photo_10_2026-06-02_20-38-16.jpg)
+**Issues**
+![Issues](/screenshots/photo_6_2026-06-02_20-38-16.jpg)
