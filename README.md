@@ -22,11 +22,11 @@ The system provides:
 -	[FR-02](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/blob/main/frontend/src/pages/Profile.jsx): The system shall allow students, teachers, and administrators to view and update their account details.
 -	[FR-03](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/blob/main/frontend/src/pages/Login.jsx): The system shall provide a login option for students, teachers, and administrators with a registered account
 -	FR-04: The system shall provide a logout option for students, teachers, and administrators who are logged in.
--	FR-05: The system shall allow students, teachers, and administrators to reset their passwords.
--	[FR-06](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/blob/main/frontend/src/pages/ResetPassword.jsx): The system shall allow students to view and access all content uploaded under each subject.
+-	[FR-05](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/blob/main/frontend/src/pages/ResetPassword.jsx): The system shall allow students, teachers, and administrators to reset their passwords.
+-	FR-06: The system shall allow students to view and access all content uploaded under each subject.
 -	[FR-07](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/blob/main/frontend/src/pages/ExamQuestionBank.jsx): The system shall allow students and teachers to access, search and filter previous-year exam problems by subject, chapter, by topic and exam year.
 -	FR-08: The system shall provide students with a numerical progress indicator for subject completion and notify them when they reach 25%, 50%, 75%, and 100% milestones.
--	FR-09: The system shall display students’ progress and results on the student's dashboard.
+-	[FR-09](https://github.com/Keradion/Final_year_project_2-Entrance-Exam-Preparation-Platform/blob/main/frontend/src/pages/StudentDashboard.jsx): The system shall display students’ progress and results on the student's dashboard.
 -	FR-10: The system shall allow students to join peer community groups via Telegram.
 -	FR-11: The system shall notify students via in-app notifications and email about subject updates.
 -	FR-12: The system shall allow students to navigate subjects and search for topics by title.
